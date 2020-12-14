@@ -1,0 +1,37 @@
+_repo: Elizabethan-Drama-and-Its-Mad-Folk-The-Harness-Prize-Essay-for-1913_63896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peers, E. Allison (Edgar Allison)
+    aliases:
+    - Peers, Edgar Allison
+    - Peers, Allison
+    - Truscot, Bruce
+    birthdate: 1891
+    deathdate: 1952
+    gutenberg_agent_id: '51089'
+    url: http://www.gutenberg.org/2009/agents/51089
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Allison_Peers
+description: ''
+gutenberg_issued: '2020-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63896'
+  lccn: '15015223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental illness in literature'
+- !lcc 'PR'
+- !lcsh 'Drama -- Psychological aspects'
+- !lcsh 'Mentally ill in literature'
+- !lcsh 'Literature and mental illness -- England -- History -- 16th century'
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+- GITenberg
+title: 'Elizabethan Drama and Its Mad Folk
+
+  The Harness Prize Essay for 1913'
+url: http://www.gutenberg.org/ebooks/63896
