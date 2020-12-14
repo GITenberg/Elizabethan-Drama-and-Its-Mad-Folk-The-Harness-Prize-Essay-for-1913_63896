@@ -1,5 +1,8 @@
 _repo: Elizabethan-Drama-and-Its-Mad-Folk-The-Harness-Prize-Essay-for-1913_63896
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63896-h/images/cover.jpg
 creator:
   author:
     agent_name: Peers, E. Allison (Edgar Allison)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51089
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Allison_Peers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63896#Elizabethan-Drama-and-Its-Mad-Folk-The-Harness-Prize-Essay-for-1913
 gutenberg_issued: '2020-11-27'
 gutenberg_type: Text
 identifiers:
